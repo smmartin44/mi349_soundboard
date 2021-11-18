@@ -1,0 +1,40 @@
+button {
+    margin: 20px;
+    font-size: 16px;
+    padding: 20px;
+}
+
+h1 {
+    margin: 20px;
+    font-family: 'Helvetica';
+}
+
+.chalkboard {
+    background-color: #1f1d1d;
+    color: #f7f2f2;
+    font-family: 'Comic sans MS';
+    font-weight: bold;
+    border-radius: 5px;
+    border: 4px solid #c4b10d;
+}
+
+.neon {
+    background-color: black;
+    color: #ff23e2;
+    font-family: 'Courier New';
+    font-weight: bold;
+    border: 2px solid #dd77c7;
+    box-shadow:rgba(255, 49, 186, 0.7) 0 0 15px; 
+}
+
+.ocean {
+    background-color: #86aaec;
+    border: 0px;
+    color: #0b2233;
+    font-weight: bold;
+    font-family: 'Georgia';
+    font-style: italic;
+    width: 120px;
+    border-radius: 7px;
+    box-shadow:rgba(49, 214, 255, 0.7) 0 0 15px; 
+}
